@@ -29,6 +29,14 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `Test data API`
+
+\*\* https://coding9dan.github.io/api/items.json\
+\*\* https://coding9dan.github.io/api/movies.json\
+\*\* https://coding9dan.github.io/api/products.json\
+\*\* https://coding9dan.github.io/api/questions.json\
+\*\* https://coding9dan.github.io/api/submissions.json
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
