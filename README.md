@@ -31,10 +31,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `Test data API`
 
-\*\* https://coding9dan.github.io/api/items.json\
-\*\* https://coding9dan.github.io/api/movies.json\
-\*\* https://coding9dan.github.io/api/products.json\
-\*\* https://coding9dan.github.io/api/questions.json\
+\*\* https://coding9dan.github.io/api/items.json \
+\*\* https://coding9dan.github.io/api/movies.json \
+\*\* https://coding9dan.github.io/api/products.json \
+\*\* https://coding9dan.github.io/api/questions.json \
 \*\* https://coding9dan.github.io/api/submissions.json
 
 ### `npm run eject`
