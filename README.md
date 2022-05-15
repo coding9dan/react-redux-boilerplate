@@ -35,7 +35,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 \*\* https://coding9dan.github.io/api/movies.json \
 \*\* https://coding9dan.github.io/api/products.json \
 \*\* https://coding9dan.github.io/api/questions.json \
-\*\* https://coding9dan.github.io/api/submissions.json
+\*\* https://coding9dan.github.io/api/submissions.json \
+\*\* https://coding9dan.github.io/api/posts.json \
+\*\* https://coding9dan.github.io/api/users.json \
+\*\* https://coding9dan.github.io/api/todos.json
 
 ### `npm run eject`
 
