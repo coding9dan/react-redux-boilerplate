@@ -1,0 +1,42 @@
+.btn {
+  background-color: orange;
+  padding: 5px 20px;
+  cursor: pointer;
+  border-radius: 10%;
+  border: none;
+}
+
+.todo_wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.todo_list {
+  width: 50%;
+}
+
+.input {
+  width: 30%;
+  padding: 5px 20px;
+  margin: 8px 0;
+}
+
+.input:focus {
+  outline: none;
+  border: 2px solid orange;
+}
+
+.ul {
+  list-style: none;
+  padding: 0;
+}
+
+.li {
+  padding: 5px;
+}
+
+.btn:hover {
+  color: white;
+}
